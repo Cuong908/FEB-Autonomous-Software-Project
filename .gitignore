@@ -1,0 +1,5 @@
+scratch.py
+tmp_casadi_*
+__pycache__
+.DS_Store
+.vscode
